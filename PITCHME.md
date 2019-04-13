@@ -3,7 +3,7 @@
 --- 
 
 ### Who am I? 
-- Frie(~drike~) Preu
+- Frie(~drike~) Preu XXX
 - data scientist / IT consultant / software developer bei codecentric 
 - bei CorrelAid: IT Infrastruktur, interne Projekte (R Packages, ...) 
 - Add me:
